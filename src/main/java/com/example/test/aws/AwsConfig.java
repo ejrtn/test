@@ -1,4 +1,4 @@
-package com.example.test.s3;
+package com.example.test.aws;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;
